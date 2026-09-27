@@ -13,8 +13,8 @@
 <p align="center">
   <a href="https://voilapro.app/?ref=github-profile">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qfdk/qfdk/main/assets/voila-banner-dark.png">
-      <img src="https://raw.githubusercontent.com/qfdk/qfdk/main/assets/voila-banner-light.png" alt="Voilà — say it in any mix of languages, and it's typed" width="800"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qfdk/qfdk/main/assets/voila-banner-dark.webp">
+      <img src="https://raw.githubusercontent.com/qfdk/qfdk/main/assets/voila-banner-light.webp" alt="Voilà — say it in any mix of languages, and it's typed" width="800"/>
     </picture>
   </a>
 </p>
