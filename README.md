@@ -12,7 +12,10 @@
 
 <p align="center">
   <a href="https://voilapro.app/?ref=github-profile">
-    <img src="https://voilapro.app/og/en.png" alt="Voilà — say it in any mix of languages, and it's typed" width="720"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qfdk/qfdk/main/assets/voila-banner-dark.png">
+      <img src="https://raw.githubusercontent.com/qfdk/qfdk/main/assets/voila-banner-light.png" alt="Voilà — say it in any mix of languages, and it's typed" width="800"/>
+    </picture>
   </a>
 </p>
 
