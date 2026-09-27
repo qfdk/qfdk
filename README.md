@@ -3,5 +3,5 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app?username=qfdk&column=7&theme=flat&no-frame=true"/>
+  <img width=800 src="https://github-trophies.vercel.app/?username=qfdk&column=7&theme=flat&no-frame=true"/>
 </a>
